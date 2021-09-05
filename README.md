@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @TausifTech
+- 👀 I’m interested in lag free mobile applications
+- 🌱 I’m currently learning everything i see infront of me.
+- 💞️ I’m looking to collaborate on dart applications.
+- 📫 Message me at tech.tsf@gmail.com
