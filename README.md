@@ -7,8 +7,8 @@
 ## We believe in Stylish & Smooth Design
 
 <p float="center">
-  <img src="https://user-images.githubusercontent.com/71214537/157216810-9318369f-1303-4a07-8a24-a80f391124f2.jpg" width="300" height="600" />
-  <img src="https://user-images.githubusercontent.com/71214537/157216888-baaf9938-265b-4916-ae6e-689386a9ab79.jpg" width="300" height="600" />
+  <img src="https://user-images.githubusercontent.com/71214537/157216810-9318369f-1303-4a07-8a24-a80f391124f2.jpg" width="200" height="400" />
+  <img src="https://user-images.githubusercontent.com/71214537/157216888-baaf9938-265b-4916-ae6e-689386a9ab79.jpg" width="200" height="400" />
 </p>
 
 ## Implement Maps & Info
