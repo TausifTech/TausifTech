@@ -11,13 +11,16 @@
   <img src="https://user-images.githubusercontent.com/71214537/157216888-baaf9938-265b-4916-ae6e-689386a9ab79.jpg" width="300" height="600" />
 </p>
 
-## Implement Maps
+## Implement Maps & Info
 
-<img src="https://user-images.githubusercontent.com/71214537/157216602-42f6a22c-cf20-413e-8206-cf430f159aee.jpg" width="300" height="600" />
+<p float = "left">
+  <img src="https://user-images.githubusercontent.com/71214537/157216602-42f6a22c-cf20-413e-8206-cf430f159aee.jpg" width="300" height="600" />
+  <img src="https://user-images.githubusercontent.com/71214537/157217979-175d3ec7-22c0-4c9d-a116-4bc0f4ef2290.jpg" width="300" height="600" />
+</p>
 
 ## Supports both Android & IOS Devices
 
-Flutter project about customizable t-shirts and application for Patient Attendant
+Unique Flutter project about customizable t-shirts
 
 <p float="left">
   <img src="https://user-images.githubusercontent.com/71214537/157206563-356db8f2-aea1-4a3e-8c71-15f8277deeef.jpg" width="300" height="600" />
@@ -34,4 +37,6 @@ This error-free application also contains "Search Option".
   <img src="https://user-images.githubusercontent.com/71214537/157215665-381182db-d4e6-4370-acd0-ce46af4711f2.jpg" width="200" height="400" />
 </p>
 
-# Leave a Star 
+# Check Out My Projects
+
+It may not seem much, but Your every "Star" is highly significant for me. Humble Regards! :D
