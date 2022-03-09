@@ -6,7 +6,7 @@
 
 ## We believe in Stylish & Smooth Design
 
-Supports Refresh Rate of 60fps and Vivid Color Combinations
+Supports Refresh Rate of <b>60fps</b> and Vivid Color Combinations
 
 <p float="center">
   <img src="https://user-images.githubusercontent.com/71214537/157216810-9318369f-1303-4a07-8a24-a80f391124f2.jpg" width="200" height="400" />
