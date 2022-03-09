@@ -9,13 +9,13 @@
 <p float="center">
   <img src="https://user-images.githubusercontent.com/71214537/157216810-9318369f-1303-4a07-8a24-a80f391124f2.jpg" width="200" height="400" />
   <img src="https://user-images.githubusercontent.com/71214537/157216888-baaf9938-265b-4916-ae6e-689386a9ab79.jpg" width="200" height="400" />
+  <img src="https://user-images.githubusercontent.com/71214537/157217979-175d3ec7-22c0-4c9d-a116-4bc0f4ef2290.jpg" width="200" height="400" />
 </p>
 
 ## Implement Maps & Info
 
 <p float = "left">
   <img src="https://user-images.githubusercontent.com/71214537/157216602-42f6a22c-cf20-413e-8206-cf430f159aee.jpg" width="300" height="600" />
-  <img src="https://user-images.githubusercontent.com/71214537/157217979-175d3ec7-22c0-4c9d-a116-4bc0f4ef2290.jpg" width="300" height="600" />
 </p>
 
 ## Supports both Android & IOS Devices
