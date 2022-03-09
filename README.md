@@ -16,7 +16,7 @@ Vivid Color Combinations with Refresh Rate of <b>60fps</b>
 
 ## Supports both Android & IOS Devices
 
-Unique Flutter project about customizable t-shirts
+Unique Flutter Project About Customizable T-shirts
 
 <p float="right">
   <img src="https://user-images.githubusercontent.com/71214537/157206563-356db8f2-aea1-4a3e-8c71-15f8277deeef.jpg" width="200" height="400" />
