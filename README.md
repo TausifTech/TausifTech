@@ -25,7 +25,7 @@ Unique Flutter Project About Customizable T-shirts
   <img src="https://user-images.githubusercontent.com/71214537/157216602-42f6a22c-cf20-413e-8206-cf430f159aee.jpg" width="200" height="400" />
 </p>
 
-## Search Option
+## Search Option and All Complex Algorithms
 
 This error-free application also contains "Search Option".
 
