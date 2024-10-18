@@ -5,7 +5,7 @@
 - 📫 Message me at tech.tsf@gmail.com
 - 😎 My website https://tausiftech.github.io/
 
-## We believe in Stylish & Smooth Design
+## I believe in Stylish & Smooth Design
 
 Vivid Color Combinations with Refresh Rate of <b>60fps</b>
 
